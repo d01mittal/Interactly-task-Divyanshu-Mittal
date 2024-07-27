@@ -1,0 +1,121 @@
+Name,Contact Details,Location,Job Skills,Experience,Projects,Comments
+John Doe,john.doe@example.com,New York,Java; Big Data; Hadoop,5 years,Developed a big data processing system using Hadoop and Spark.,Strong problem-solving skills.
+Jane Smith,jane.smith@example.com,San Francisco,JavaScript; React; Node.js,3 years,Built a real-time chat application using React and Node.js.,Excellent in team collaboration.
+Bob Johnson,bob.johnson@example.com,New York,Java; Spring; Microservices,6 years,Implemented a microservices architecture for an e-commerce platform.,Proactive and detail-oriented.
+Alice Brown,alice.brown@example.com,Chicago,Python; Django; Machine Learning,4 years,Created a machine learning model for predictive analytics.,Strong analytical skills.
+Michael Green,michael.green@example.com,Boston,Ruby; Rails; PostgreSQL,7 years,Developed a scalable web application using Ruby on Rails.,Great leadership qualities.
+Emily White,emily.white@example.com,New York,Java; Big Data; Kafka,5 years,Designed a big data pipeline using Kafka and Hadoop.,Highly motivated and enthusiastic.
+David Black,david.black@example.com,Los Angeles,Go; Kubernetes; Docker,4 years,Implemented a containerized application using Kubernetes and Docker.,Strong technical background.
+Sarah Wilson,sarah.wilson@example.com,New York,Java; Big Data; Apache Spark,5 years,Developed a real-time data processing system using Apache Spark.,Excellent in problem-solving.
+James Brown,james.brown@example.com,New York,Java; Big Data; Elasticsearch,5 years,Created a search engine using Elasticsearch for big data analytics.,Detail-oriented and efficient.
+Laura Davis,laura.davis@example.com,San Francisco,JavaScript; Vue.js; Firebase,3 years,Developed a progressive web app using Vue.js and Firebase.,Creative and innovative.
+Chris Harris,chris.harris@example.com,Chicago,Python; Flask; Machine Learning,4 years,Implemented a machine learning model for image recognition.,Excellent in analytical thinking.
+Nancy Lewis,nancy.lewis@example.com,New York,Java; Spring Boot; Microservices,6 years,Developed a microservices-based application using Spring Boot.,Strong leadership skills.
+Kevin Lee,kevin.lee@example.com,Boston,Ruby; Sinatra; MySQL,7 years,Created a lightweight web application using Ruby and Sinatra.,Proactive and results-driven.
+Olivia Martin,olivia.martin@example.com,New York,Java; Big Data; HBase,5 years,Designed a big data storage solution using HBase and Hadoop.,Highly adaptable and quick learner.
+Daniel Clark,daniel.clark@example.com,Los Angeles,Go; Microservices; Kubernetes,4 years,Developed a microservices application using Go and Kubernetes.,Strong technical expertise.
+Sophia Walker,sophia.walker@example.com,New York,Java; Big Data; Apache Flink,5 years,Implemented a data processing system using Apache Flink.,Detail-oriented and reliable.
+Brian Scott,brian.scott@example.com,New York,Java; Big Data; Hive,5 years,Developed a data warehouse solution using Hive and Hadoop.,Excellent in problem-solving.
+Grace King,grace.king@example.com,San Francisco,JavaScript; Angular; Node.js,3 years,Created a single-page application using Angular and Node.js.,Great at team collaboration.
+Ryan Hill,ryan.hill@example.com,Chicago,Python; Tornado; Machine Learning,4 years,Implemented a real-time machine learning system using Tornado.,Strong analytical skills.
+Lily Adams,lily.adams@example.com,New York,Java; Spring; Hibernate,6 years,Developed a web application using Spring and Hibernate.,Highly motivated and detail-oriented.
+Walter White,walter.white@hotmail.com,"Chicago, IL","Spring Boot, Go, Flask, Microservices",14 years,Legacy system upgrade,DevOps enthusiast
+Nancy Drew,nancy.drew@gmail.com,"San Antonio, TX","Ruby, Azure, Python, Machine Learning",7 years,Front-end redesign,Experienced in big data
+Nancy Drew,nancy.drew@gmail.com,"Los Angeles, CA","Java, Python, PostgreSQL, Go",3 years,Microservices architecture,Machine learning expert
+Oscar Martinez,oscar.martinez@gmail.com,"San Antonio, TX","PostgreSQL, Ruby, SQL, C#",9 years,Cloud infrastructure setup,Front-end specialist
+Quinn Fabray,quinn.fabray@gmail.com,"Phoenix, AZ","Kubernetes, C#, Node.js, Microservices",8 years,Security audit,DevOps enthusiast
+Rachel Green,rachel.green@outlook.com,"Philadelphia, PA","Kubernetes, Flask, SQL, JavaScript",7 years,Front-end redesign,Expert in backend development
+George O'Malley,george.o'malley@hotmail.com,"Houston, TX","Microservices, Java, Kubernetes, C#",11 years,Front-end redesign,Cloud computing expert
+Lara Croft,lara.croft@hotmail.com,"Philadelphia, PA","Django, Flask, Azure, MongoDB",13 years,Microservices architecture,Excellent team player
+Charlie Brown,charlie.brown@outlook.com,"Phoenix, AZ","Flask, Machine Learning, Django, PostgreSQL",7 years,Front-end redesign,DevOps enthusiast
+Rachel Green,rachel.green@yahoo.com,"Dallas, TX","Ruby, SQL, MongoDB, Spring Boot",9 years,Machine Learning model,Excellent team player
+Alice Johnson,alice.johnson@hotmail.com,"San Antonio, TX","AWS, JavaScript, Go, Spring Boot",13 years,Cloud infrastructure setup,Machine learning expert
+Rachel Green,rachel.green@yahoo.com,"San Antonio, TX","Go, C#, AWS, Flask",3 years,Front-end redesign,Expert in backend development
+Alice Johnson,alice.johnson@outlook.com,"Dallas, TX","SQL, PostgreSQL, JavaScript, Microservices",12 years,Machine Learning model,Experienced in big data
+Michael Scott,michael.scott@outlook.com,"New York, NY","Kubernetes, JavaScript, Java, Ruby",6 years,Security audit,Expert in backend development
+Sam Winchester,sam.winchester@yahoo.com,"Dallas, TX","Java, Flask, Kubernetes, Microservices",3 years,API development,Machine learning expert
+George O'Malley,george.o'malley@outlook.com,"Chicago, IL","Big Data, JavaScript, SQL, Python",8 years,Microservices architecture,Cloud computing expert
+Hannah Baker,hannah.baker@yahoo.com,"Phoenix, AZ","Big Data, AWS, C#, MongoDB",10 years,Microservices architecture,Strong leadership skills
+Michael Scott,michael.scott@outlook.com,"Phoenix, AZ","Go, Flask, Kubernetes, Machine Learning",8 years,Security audit,Skilled in microservices
+Oscar Martinez,oscar.martinez@outlook.com,"Chicago, IL","Machine Learning, Spring Boot, Microservices, Node.js",14 years,E-commerce website,Skilled in microservices
+Nancy Drew,nancy.drew@hotmail.com,"San Diego, CA","Spring Boot, Node.js, MongoDB, Go",11 years,Front-end redesign,Expert in backend development
+Hannah Baker,hannah.baker@outlook.com,"Los Angeles, CA","Go, AWS, Azure, Big Data",1 years,Microservices architecture,Front-end specialist
+Bob Smith,bob.smith@gmail.com,"San Diego, CA","C#, Java, Ruby, JavaScript",14 years,Legacy system upgrade,Front-end specialist
+Kyle Reese,kyle.reese@gmail.com,"San Jose, CA","Java, Machine Learning, PostgreSQL, React",15 years,Microservices architecture,Machine learning expert
+Tina Cohen-Chang,tina.cohen-chang@yahoo.com,"Chicago, IL","Kubernetes, Machine Learning, Django, PostgreSQL",6 years,Database migration,Expert in backend development
+Kyle Reese,kyle.reese@hotmail.com,"Dallas, TX","Machine Learning, JavaScript, Flask, Node.js",2 years,Mobile app,Strong leadership skills
+Ian Malcolm,ian.malcolm@yahoo.com,"San Antonio, TX","C#, PostgreSQL, Java, Microservices",4 years,Database migration,Machine learning expert
+Zoe Saldana,zoe.saldana@hotmail.com,"Dallas, TX","Ruby, JavaScript, AWS, Node.js",8 years,Cloud infrastructure setup,Skilled in microservices
+Ursula Buffay,ursula.buffay@yahoo.com,"Philadelphia, PA","Big Data, Spring Boot, Java, Machine Learning",10 years,Mobile app,Skilled in microservices
+Pam Beesly,pam.beesly@hotmail.com,"Phoenix, AZ","Python, Node.js, MongoDB, C#",1 years,Database migration,Front-end specialist
+Pam Beesly,pam.beesly@outlook.com,"New York, NY","Java, Microservices, JavaScript, Spring Boot",2 years,Legacy system upgrade,Expert in backend development
+Michael Scott,michael.scott@yahoo.com,"Houston, TX","Flask, SQL, React, Machine Learning",13 years,Mobile app,Proficient in agile methodologies
+Rachel Green,rachel.green@hotmail.com,"Los Angeles, CA","Python, MongoDB, Flask, Spring Boot",13 years,E-commerce website,Skilled in microservices
+Lara Croft,lara.croft@gmail.com,"Philadelphia, PA","Ruby, Azure, PostgreSQL, Machine Learning",15 years,E-commerce website,Experienced in big data
+Alice Johnson,alice.johnson@yahoo.com,"Chicago, IL","C#, MongoDB, AWS, SQL",8 years,Front-end redesign,DevOps enthusiast
+Ian Malcolm,ian.malcolm@yahoo.com,"Houston, TX","Kubernetes, Ruby, AWS, React",11 years,Front-end redesign,Front-end specialist
+Kyle Reese,kyle.reese@hotmail.com,"Phoenix, AZ","Go, MongoDB, Django, Ruby",11 years,Microservices architecture,Proficient in agile methodologies
+Lara Croft,lara.croft@gmail.com,"San Diego, CA","Kubernetes, Python, Ruby, AWS",2 years,Cloud infrastructure setup,Front-end specialist
+Fiona Gallagher,fiona.gallagher@yahoo.com,"Houston, TX","C#, Python, SQL, Microservices",8 years,Microservices architecture,Experienced in big data
+Ian Malcolm,ian.malcolm@gmail.com,"Houston, TX","Spring Boot, Flask, SQL, PostgreSQL",2 years,API development,Expert in backend development
+Oscar Martinez,oscar.martinez@gmail.com,"Los Angeles, CA","Python, Microservices, SQL, React",9 years,API development,Cloud computing expert
+Walter White,walter.white@hotmail.com,"Philadelphia, PA","JavaScript, C#, Ruby, AWS",2 years,Legacy system upgrade,Strong leadership skills
+Ethan Hunt,ethan.hunt@hotmail.com,"San Jose, CA","Node.js, SQL, Django, Kubernetes",5 years,Microservices architecture,Strong leadership skills
+Daisy Johnson,daisy.johnson@outlook.com,"San Antonio, TX","Django, SQL, AWS, PostgreSQL",8 years,Cloud infrastructure setup,Cloud computing expert
+Zoe Saldana,zoe.saldana@hotmail.com,"Houston, TX","Microservices, JavaScript, Django, PostgreSQL",9 years,Microservices architecture,Experienced in big data
+Xander Harris,xander.harris@outlook.com,"Chicago, IL","JavaScript, Big Data, Java, Kubernetes",14 years,Mobile app,Excellent team player
+Hannah Baker,hannah.baker@outlook.com,"Los Angeles, CA","Django, AWS, MongoDB, Machine Learning",5 years,Database migration,Experienced in big data
+Zoe Saldana,zoe.saldana@yahoo.com,"Houston, TX","Go, AWS, MongoDB, SQL",1 years,Mobile app,Skilled in microservices
+Ian Malcolm,ian.malcolm@gmail.com,"Phoenix, AZ","Python, Java, AWS, Node.js",10 years,Cloud infrastructure setup,DevOps enthusiast
+Jenna Maroney,jenna.maroney@outlook.com,"Los Angeles, CA","MongoDB, AWS, Big Data, React",15 years,Legacy system upgrade,Cloud computing expert
+Bob Smith,bob.smith@outlook.com,"San Jose, CA","Microservices, Python, Big Data, Node.js",12 years,Cloud infrastructure setup,Experienced in big data
+Hannah Baker,hannah.baker@hotmail.com,"Philadelphia, PA","Java, React, Kubernetes, SQL",6 years,Microservices architecture,Cloud computing expert
+Lara Croft,lara.croft@hotmail.com,"Phoenix, AZ","AWS, Go, Flask, Java",5 years,Machine Learning model,Front-end specialist
+Bob Smith,bob.smith@hotmail.com,"Los Angeles, CA","React, Django, Python, Flask",10 years,Microservices architecture,Front-end specialist
+Kyle Reese,kyle.reese@gmail.com,"Chicago, IL","AWS, Big Data, Django, Python",4 years,Mobile app,Strong leadership skills
+Rachel Green,rachel.green@gmail.com,"San Antonio, TX","Machine Learning, Python, C#, PostgreSQL",1 years,Front-end redesign,Front-end specialist
+Sam Winchester,sam.winchester@gmail.com,"New York, NY","Machine Learning, Big Data, Node.js, Spring Boot",3 years,Cloud infrastructure setup,Strong leadership skills
+Xander Harris,xander.harris@hotmail.com,"New York, NY","Django, PostgreSQL, AWS, Big Data",6 years,Security audit,Cloud computing expert
+Pam Beesly,pam.beesly@yahoo.com,"Los Angeles, CA","JavaScript, Python, Java, React",3 years,Cloud infrastructure setup,Strong leadership skills
+Nancy Drew,nancy.drew@yahoo.com,"Chicago, IL","C#, Spring Boot, Go, Ruby",12 years,Microservices architecture,Cloud computing expert
+Zoe Saldana,zoe.saldana@hotmail.com,"Dallas, TX","Django, AWS, Kubernetes, Azure",7 years,Cloud infrastructure setup,Proficient in agile methodologies
+Ethan Hunt,ethan.hunt@yahoo.com,"Houston, TX","Django, SQL, Java, PostgreSQL",5 years,API development,Expert in backend development
+Michael Scott,michael.scott@gmail.com,"Chicago, IL","Flask, Go, React, Azure",3 years,Front-end redesign,Machine learning expert
+Kyle Reese,kyle.reese@outlook.com,"San Jose, CA","Machine Learning, Big Data, Python, Ruby",14 years,Security audit,Experienced in big data
+Ian Malcolm,ian.malcolm@outlook.com,"New York, NY","AWS, Spring Boot, Java, Big Data",3 years,Security audit,Machine learning expert
+Hannah Baker,hannah.baker@gmail.com,"San Diego, CA","Big Data, React, Java, MongoDB",13 years,Mobile app,Machine learning expert
+Bob Smith,bob.smith@gmail.com,"Houston, TX","Django, C#, Big Data, MongoDB",6 years,Front-end redesign,Machine learning expert
+Charlie Brown,charlie.brown@gmail.com,"Houston, TX","Kubernetes, Python, Ruby, MongoDB",4 years,Mobile app,Excellent team player
+Ursula Buffay,ursula.buffay@yahoo.com,"Houston, TX","Machine Learning, Kubernetes, Flask, React",5 years,Front-end redesign,Machine learning expert
+Kyle Reese,kyle.reese@outlook.com,"Dallas, TX","Ruby, Flask, AWS, Spring Boot",13 years,E-commerce website,DevOps enthusiast
+Lara Croft,lara.croft@hotmail.com,"New York, NY","Azure, Microservices, C#, Machine Learning",3 years,Machine Learning model,Machine learning expert
+Ursula Buffay,ursula.buffay@yahoo.com,"Dallas, TX","Python, PostgreSQL, AWS, Django",10 years,API development,DevOps enthusiast
+Charlie Brown,charlie.brown@hotmail.com,"Dallas, TX","Big Data, Ruby, Kubernetes, Go",3 years,E-commerce website,Proficient in agile methodologies
+Nancy Drew,nancy.drew@outlook.com,"San Jose, CA","Big Data, PostgreSQL, Java, AWS",10 years,Machine Learning model,Expert in backend development
+Oscar Martinez,oscar.martinez@outlook.com,"Chicago, IL","Java, Azure, Ruby, PostgreSQL",6 years,Front-end redesign,Machine learning expert
+Rachel Green,rachel.green@gmail.com,"Phoenix, AZ","MongoDB, Go, Big Data, PostgreSQL",12 years,Security audit,Front-end specialist
+Walter White,walter.white@hotmail.com,"Dallas, TX","Node.js, PostgreSQL, AWS, JavaScript",2 years,Mobile app,Skilled in microservices
+Tina Cohen-Chang,tina.cohen-chang@outlook.com,"Los Angeles, CA","PostgreSQL, Kubernetes, JavaScript, Machine Learning",11 years,Mobile app,Expert in backend development
+Ethan Hunt,ethan.hunt@gmail.com,"New York, NY","SQL, PostgreSQL, Spring Boot, AWS",3 years,E-commerce website,Excellent team player
+Fiona Gallagher,fiona.gallagher@hotmail.com,"San Antonio, TX","Ruby, Go, PostgreSQL, Big Data",11 years,Machine Learning model,Excellent team player
+Pam Beesly,pam.beesly@yahoo.com,"Los Angeles, CA","Go, Machine Learning, MongoDB, AWS",2 years,Database migration,Cloud computing expert
+Kyle Reese,kyle.reese@yahoo.com,"Houston, TX","Flask, Kubernetes, Go, Azure",8 years,E-commerce website,Excellent team player
+Tina Cohen-Chang,tina.cohen-chang@gmail.com,"San Antonio, TX","PostgreSQL, Java, Kubernetes, MongoDB",3 years,Cloud infrastructure setup,Cloud computing expert
+Alice Johnson,alice.johnson@yahoo.com,"Houston, TX","Go, C#, SQL, Big Data",12 years,Security audit,Machine learning expert
+Tina Cohen-Chang,tina.cohen-chang@outlook.com,"Phoenix, AZ","SQL, Machine Learning, Microservices, Ruby",3 years,Database migration,Proficient in agile methodologies
+Zoe Saldana,zoe.saldana@yahoo.com,"Phoenix, AZ","Java, JavaScript, Azure, AWS",15 years,Microservices architecture,DevOps enthusiast
+Walter White,walter.white@outlook.com,"San Antonio, TX","MongoDB, C#, Azure, Big Data",3 years,Front-end redesign,Proficient in agile methodologies
+Yvonne Strahovski,yvonne.strahovski@outlook.com,"Los Angeles, CA","Django, Python, Java, Spring Boot",5 years,Legacy system upgrade,Machine learning expert
+Sam Winchester,sam.winchester@hotmail.com,"Chicago, IL","Flask, JavaScript, Django, Big Data",4 years,Legacy system upgrade,Skilled in microservices
+Jenna Maroney,jenna.maroney@outlook.com,"San Diego, CA","Azure, SQL, Kubernetes, C#",7 years,Cloud infrastructure setup,Proficient in agile methodologies
+Jenna Maroney,jenna.maroney@hotmail.com,"Phoenix, AZ","Azure, Ruby, MongoDB, C#",10 years,Microservices architecture,Front-end specialist
+Alice Johnson,alice.johnson@hotmail.com,"Los Angeles, CA","Go, Spring Boot, Kubernetes, Java",5 years,Cloud infrastructure setup,Front-end specialist
+Daisy Johnson,daisy.johnson@outlook.com,"San Jose, CA","Go, SQL, React, Java",14 years,Legacy system upgrade,Skilled in microservices
+Xander Harris,xander.harris@outlook.com,"Philadelphia, PA","Node.js, Microservices, JavaScript, Kubernetes",6 years,Machine Learning model,Strong leadership skills
+Ethan Hunt,ethan.hunt@outlook.com,"Philadelphia, PA","MongoDB, AWS, Node.js, PostgreSQL",6 years,Database migration,Expert in backend development
+Ian Malcolm,ian.malcolm@outlook.com,"San Diego, CA","Ruby, Kubernetes, JavaScript, MongoDB",9 years,Security audit,Expert in backend development
+Nancy Drew,nancy.drew@gmail.com,"New York, NY","Spring Boot, Node.js, Ruby, Java",2 years,Front-end redesign,Machine learning expert
+Charlie Brown,charlie.brown@outlook.com,"Philadelphia, PA","Flask, AWS, Machine Learning, Go",10 years,Microservices architecture,Expert in backend development
+Quinn Fabray,quinn.fabray@gmail.com,"Los Angeles, CA","Django, Microservices, Machine Learning, Azure",14 years,API development,Excellent team player
+Daisy Johnson,daisy.johnson@outlook.com,"San Diego, CA","Node.js, Kubernetes, React, Django",2 years,Microservices architecture,Front-end specialist
+Ian Malcolm,ian.malcolm@hotmail.com,"Los Angeles, CA","JavaScript, PostgreSQL, Node.js, Microservices",10 years,Mobile app,Expert in backend development
